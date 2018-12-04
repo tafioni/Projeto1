@@ -1,1 +1,18 @@
 # orientações 
+## huehue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+troglodita
