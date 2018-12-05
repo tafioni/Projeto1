@@ -1,0 +1,5 @@
+
+-Dmaven.multiModuleProjectDirectory=/home/lab7956/Documents/Davi/apache-maven-3.6.0
+
+Coloca isso no seu Run Configurations->JRE->VM Arguments
+Só coloca seu endereco do Maven
