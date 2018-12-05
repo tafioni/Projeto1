@@ -1,13 +1,10 @@
 # orientações 
-<<<<<<< HEAD
-dfdsfdsfds
-fdsfdsf
-jhkjh
-=======
 ## huehue
 
 
-
+hshahdshadhsjahdsjahdsaj
+gfgfdgfd
+gfdgfdgf
 
 
 
@@ -23,4 +20,7 @@ jhkjh
 troglodita
 
 era das máquinas
+<<<<<<< Updated upstream
 >>>>>>> 273a7ed7b281692714c9979424e8fba234ade7c2
+=======
+>>>>>>> Stashed changes
